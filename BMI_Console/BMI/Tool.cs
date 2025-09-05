@@ -19,7 +19,11 @@ namespace BMI
                 return false;
             }
         }
-
+        /// <summary>
+        /// 公分轉公尺
+        /// </summary>
+        /// <param name="input"></param>
+        /// <returns></returns>
         public static double ConvertCMToMeter(double input)
         {
             input /= 100;
