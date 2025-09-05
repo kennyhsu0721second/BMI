@@ -22,7 +22,7 @@ namespace BMI
 
         public static double ConvertCMToMeter(double input)
         {
-            input /= 1000;
+            input /= 100;
             return input;
         }
     }
