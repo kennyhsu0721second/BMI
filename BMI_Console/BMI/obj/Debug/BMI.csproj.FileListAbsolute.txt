@@ -1,0 +1,14 @@
+C:\Users\kenny_hsu\source\repos\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\kenny_hsu\source\repos\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\kenny_hsu\source\repos\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\kenny_hsu\source\repos\BMI\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\Users\kenny_hsu\source\repos\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\kenny_hsu\source\repos\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\kenny_hsu\source\repos\BMI\BMI\obj\Debug\BMI.pdb
+C:\MyBox\OneDrive\Share Folder\GSS\新人訓練\教材\Course1_DevelopmentTool_and_Guideline_2021\Sample\BMI_Console\BMI\bin\Debug\BMI.exe.config
+C:\MyBox\OneDrive\Share Folder\GSS\新人訓練\教材\Course1_DevelopmentTool_and_Guideline_2021\Sample\BMI_Console\BMI\bin\Debug\BMI.exe
+C:\MyBox\OneDrive\Share Folder\GSS\新人訓練\教材\Course1_DevelopmentTool_and_Guideline_2021\Sample\BMI_Console\BMI\bin\Debug\BMI.pdb
+C:\MyBox\OneDrive\Share Folder\GSS\新人訓練\教材\Course1_DevelopmentTool_and_Guideline_2021\Sample\BMI_Console\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\MyBox\OneDrive\Share Folder\GSS\新人訓練\教材\Course1_DevelopmentTool_and_Guideline_2021\Sample\BMI_Console\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\MyBox\OneDrive\Share Folder\GSS\新人訓練\教材\Course1_DevelopmentTool_and_Guideline_2021\Sample\BMI_Console\BMI\obj\Debug\BMI.exe
+C:\MyBox\OneDrive\Share Folder\GSS\新人訓練\教材\Course1_DevelopmentTool_and_Guideline_2021\Sample\BMI_Console\BMI\obj\Debug\BMI.pdb
