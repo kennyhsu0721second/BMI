@@ -20,7 +20,7 @@ namespace BMI
             }
         }
         /// <summary>
-        /// 公分轉公尺
+        /// 將公分轉公尺
         /// </summary>
         /// <param name="input"></param>
         /// <returns></returns>
